@@ -7,3 +7,9 @@ prova 1: 10/05 prova 2: 10/07
 teste 1: 0.1 teste 2: próxima quarta, funções
 
 matéria por enquanto: inequação, módulo e função.
+
+das funções vistas até agora: constante, identidade, linear, módulo, par, ímpar, crescente, decrescente, injetora, sobrejetora.
+
+##Funções
+
+**Definição**
