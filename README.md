@@ -10,6 +10,6 @@ matéria por enquanto: inequação, módulo e função.
 
 das funções vistas até agora: constante, identidade, linear, módulo, par, ímpar, crescente, decrescente, injetora, sobrejetora.
 
-##Funções
+## Funções
 
 **Definição**
