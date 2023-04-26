@@ -32,4 +32,4 @@ O subconjunto de B formado pelos elementos da forma f(x) é chamado de **imagem 
 
 Podemos imaginar uma função f: A --> B como sendo uma 'máquina' que transforma elementos de A em elementos de B.
 
-(imagem)
+![DiagFun](https://user-images.githubusercontent.com/128937668/234448845-6e29ee4a-180d-44b6-aca4-e1d97c3d53b5.png)
