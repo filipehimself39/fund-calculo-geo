@@ -2,7 +2,7 @@
 
 ![perfect_blue_mirror](https://user-images.githubusercontent.com/128937668/233875747-43b34ec1-e5e8-46f7-8b55-06ac6a8a2753.gif)
 
-prova 1: 10/05 prova 2: 10/07
+prova 1: 15/05 prova 2: 10/07
 
 teste 1: 0.1 teste 2: próxima quarta, funções
 
@@ -66,7 +66,7 @@ Por outro lado:
 
 **Definição de Gráfico de função**
 
-`O **gráfico** de uma função real f: A --> B é o conjunto {(x, y) | x ∈ A, y=f(x)}.`
+`O gráfico de uma função real f: A --> B é o conjunto {(x, y) | x ∈ A, y=f(x)}.`
 
 ---
 
@@ -74,7 +74,7 @@ Por outro lado:
 
 **Definição de função afim**
 
-`Uma função real f: A --> B é dita **afim** se, fixados dois números a, b ∈ R, f é da forma: f(x) = ax + b, para todo x ∈ A.`
+`Uma função real f: A --> B é dita afim se, fixados dois números a, b ∈ R, f é da forma: f(x) = ax + b, para todo x ∈ A.`
 
 >Quando dizemos que f é uma função afim, sem mencionar seu domínio e contradomínio, estamos supondo que A = R e B = R.
 
