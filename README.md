@@ -54,7 +54,7 @@ Por outro lado:
 
 * mais de um elemento de A pode ser transformado no mesmo elemento de B.
 
-(imagem)
+![Funcao2](https://user-images.githubusercontent.com/128937668/235225414-7b825901-dbb8-4c30-9dc7-f132c4864858.png)
 
 ---
 
